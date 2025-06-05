@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Siemens';
+    src: url('../fuente/Siemensbold.ttf');
+    font-weight: bolder;
+    font-style: bolder;
+}
+
+@font-face {
+    font-family: 'Siemens';
+    src: url('../fuente/Siemensblack.ttf');
+    font-weight: bold;
+    font-style: bold;
+}
+
+@font-face {
+    font-family: 'Siemens';
+    src: url('../fuente/Siemensroman.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+h1{
+    font-family: 'Siemens';
+    font-weight: bolder;
+}
+
+h2{
+    font-family: 'Siemens';
+    font-weight: bold;
+}
+
+p{
+    font-family: 'Siemens';
+    font-weight: normal;
+}
