@@ -1,20 +1,20 @@
 @font-face {
     font-family: 'Siemens';
-    src: url('../fuente/Siemensbold.ttf');
+    src: url('/Siemensbold.ttf');
     font-weight: bolder;
     font-style: bolder;
 }
 
 @font-face {
     font-family: 'Siemens';
-    src: url('../fuente/Siemensblack.ttf');
+    src: url('/Siemensblack.ttf');
     font-weight: bold;
     font-style: bold;
 }
 
 @font-face {
     font-family: 'Siemens';
-    src: url('../fuente/Siemensroman.ttf');
+    src: url('/Siemensroman.ttf');
     font-weight: normal;
     font-style: normal;
 }
